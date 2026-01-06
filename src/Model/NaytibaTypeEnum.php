@@ -8,5 +8,5 @@ enum NaytibaTypeEnum: string {
     case ELITE = 'Elite Naytiba';
     case ALPHA = 'Alpha Naytiba';
     case ELDER = 'Elder Naytiba';
-    case OTHER = 'Unclassified'
+    case OTHER = 'Unclassified';
 }
